@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-07-27T06:22:00.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" version="13.5.3" etag="GKmZFnH08i28kW_USsZ1" type="github"><diagram id="srcbrR8dubsIR0HigiFR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-21T03:23:36.043Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="KnF4zv4vvSGFss7hYELS" version="13.10.0" type="github">
+  <diagram id="srcbrR8dubsIR0HigiFR" name="Page-1">
+    <mxGraphModel dx="652" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A80v5EPzU_mnToUGICA3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006666;" edge="1" parent="1" source="A80v5EPzU_mnToUGICA3-1" target="A80v5EPzU_mnToUGICA3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A80v5EPzU_mnToUGICA3-1" target="A80v5EPzU_mnToUGICA3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;打开二进制文件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006666;" edge="1" parent="1" source="A80v5EPzU_mnToUGICA3-2" target="A80v5EPzU_mnToUGICA3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="A80v5EPzU_mnToUGICA3-2" target="A80v5EPzU_mnToUGICA3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;数据解析&lt;br&gt;魔数、图像数量、高、宽&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006666;" edge="1" parent="1" source="A80v5EPzU_mnToUGICA3-3" target="A80v5EPzU_mnToUGICA3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="A80v5EPzU_mnToUGICA3-3" target="A80v5EPzU_mnToUGICA3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;数据解析&lt;br&gt;像素值&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006666;" edge="1" parent="1" source="A80v5EPzU_mnToUGICA3-4" target="A80v5EPzU_mnToUGICA3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;转换为numpy数组&lt;br&gt;images[num_images, num_rows, num_cols]&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;bin_data=open(filename, &#39;rb&#39;).read()&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;magic_number, num_images, num_rows, num_cols= struct.unpack_from(fmt_header, bin_data, offset)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;image_data= &lt;br&gt;struct.unpack_from(fmt_image, bin_data, offset)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A80v5EPzU_mnToUGICA3-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;images[i]= &lt;br&gt;numpy.array(&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;image_data&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;).reshape(num_rows, num_cols)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="280" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
